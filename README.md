@@ -1,3 +1,3 @@
-# Pa-Java
+# F-Aulas-Java
 
-<h5>Aulas de Java|Anotações</h5>
+<h5>Anotações de Java das aulas da Faculdade</h5>
